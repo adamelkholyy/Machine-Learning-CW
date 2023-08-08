@@ -1,1 +1,1 @@
-Neural network created in tensorflow to predict Ocean Proximity in the California housing dataset.
+Neural network models created in tensorflow to predict Ocean Proximity in the California housing dataset. Includes comparison of differing optimisation algorithms and their affects on the accuracy of the models.
